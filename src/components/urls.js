@@ -1,4 +1,5 @@
-const BASE_URL = "https://alat-server-henna.vercel.app";
+const BASE_URL = "https://young-alat.vercel.app";
 
 export default BASE_URL;
+
 
